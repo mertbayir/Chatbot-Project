@@ -1,0 +1,12 @@
+{
+  "name": "chatbot-shared",
+  "version": "1.0.0",
+  "description": "Shared types and utilities for chatbot project",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
