@@ -1,4 +1,4 @@
-# Sole Luna Tech - Smart Chatbot Platform
+# Chatbot Projesi
 
 Sole Luna Tech için özel geliştirilmiş akıllı chatbot widget'ı. Müşterilere hizmetler hakkında bilgi veren ve iletişim sağlayan modern bir asistan.
 
@@ -49,6 +49,5 @@ npm run build
 
 - Gerçek zamanlı mesajlaşma
 - Akıllı otomatik yanıtlar
-- Mesaj geçmişi
 - Kullanıcı dostu arayüz
 - Responsive tasarım
