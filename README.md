@@ -57,13 +57,10 @@ npm run build
 ### Ana Ekran
 ![Chatbot Ana Ekran](images/chatbot1.png)
 
-### Chat Widget
 ![Chat Widget](images/chatbot2.png)
 
-### Mobil Görünüm
 ![Mobil Görünüm](images/chatbot3.png)
 
-### Hizmet Detayları
 ![Hizmet Detayları](images/chatbot4.png)
 
 ---
