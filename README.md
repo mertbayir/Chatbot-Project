@@ -54,13 +54,13 @@ npm run build
 
 ## 📸 Proje Görselleri
 
-![Arayuz](images/chatbot5.png)
+<img src="images/chatbot5.png" alt="Arayuz" width="400"/>
 
-![Chat Widget](images/chatbot2.png)
+<img src="images/chatbot5.png" alt="Arayuz" width="400"/>
 
-![Mobil Görünüm](images/chatbot3.png)
+<img src="images/chatbot5.png" alt="Arayuz" width="400"/>
 
-![Hizmet Detayları](images/chatbot4.png)
+<img src="images/chatbot5.png" alt="Arayuz" width="400"/>
 
 ---
 
