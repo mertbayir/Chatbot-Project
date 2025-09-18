@@ -54,8 +54,6 @@ npm run build
 
 ## 📸 Proje Görselleri
 
-### Ana Ekran
-![Chatbot Ana Ekran](images/chatbot1.png)
 
 ![Chat Widget](images/chatbot2.png)
 
