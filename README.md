@@ -55,16 +55,16 @@ npm run build
 ## 📸 Proje Görselleri
 
 ### Ana Ekran
-![Chatbot Ana Ekran](img/chatbot1.png)
+![Chatbot Ana Ekran](images/chatbot1.png)
 
 ### Chat Widget
-![Chat Widget](img/chatbot2.png)
+![Chat Widget](images/chatbot2.png)
 
 ### Mobil Görünüm
-![Mobil Görünüm](img/chatbot3.png)
+![Mobil Görünüm](images/chatbot3.png)
 
 ### Hizmet Detayları
-![Hizmet Detayları](img/chatbot4.png)
+![Hizmet Detayları](images/chatbot4.png)
 
 ---
 
