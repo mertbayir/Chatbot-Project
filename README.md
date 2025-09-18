@@ -1,4 +1,4 @@
-# Chatbot Projesi
+# Akıllı Chatbot Projesi
 
 Sole Luna Tech için özel geliştirilmiş akıllı chatbot widget'ı. Müşterilere hizmetler hakkında bilgi veren ve iletişim sağlayan modern bir asistan.
 
@@ -51,3 +51,57 @@ npm run build
 - Akıllı otomatik yanıtlar
 - Kullanıcı dostu arayüz
 - Responsive tasarım
+
+## 📸 Proje Görselleri
+
+### Ana Ekran
+![Chatbot Ana Ekran](img/chatbot1.png)
+
+### Chat Widget
+![Chat Widget](img/chatbot2.png)
+
+### Mobil Görünüm
+![Mobil Görünüm](img/chatbot3.png)
+
+### Hizmet Detayları
+![Hizmet Detayları](img/chatbot4.png)
+
+---
+
+## 🌟 Demo
+
+Bu proje Sole Luna Tech için özel geliştirilmiş profesyonel bir chatbot çözümüdür. Müşteri deneyimini geliştirmek ve hizmet tanıtımını optimize etmek amacıyla tasarlanmıştır.
+
+### ✨ Öne Çıkan Özellikler
+- 🎯 **Hizmet Odaklı**: Dijital marka deneyimi, mobil uygulama, IoT çözümleri ve daha fazlası
+- 🚀 **Anlık Yanıt**: Socket.io tabanlı gerçek zamanlı iletişim
+- 🎨 **Modern Tasarım**: Tailwind CSS ile responsive ve estetik arayüz
+- 🔧 **Kolay Entegrasyon**: Herhangi bir web sitesine kolayca entegre edilebilir
+
+### 🛡️ Teknoloji Stack
+- **Frontend**: React + TypeScript + Tailwind CSS + Vite
+- **Backend**: Node.js + Express + Socket.io + TypeScript
+- **Development**: Concurrently, Nodemon, Hot Reload
+
+---
+
+## 🚀 **[Live Demo](https://github.com/mertbayir/Chatbot-Project)**
+
+> Bu chatbot, modern web teknolojileri kullanılarak geliştirilmiş ve Sole Luna Tech'in hizmet portföyünü akıllı bir şekilde tanıtan profesyonel bir asistandir.
+
+---
+
+## 📞 İletişim
+
+**Sole Luna Tech** - Teknoloji çözümlerinde güvenilir partneriniz
+
+- 🌐 Website: [solelunatech.com](https://www.solelunatech.com)
+- 💼 LinkedIn: [Sole Luna Tech](https://linkedin.com/company/solelunatech)
+- 📧 Email: info@solelunatech.com
+
+---
+
+<div align="center">
+  <p><strong>⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!</strong></p>
+  <p><em>Made with ❤️ by Sole Luna Tech</em></p>
+</div>
